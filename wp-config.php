@@ -106,7 +106,8 @@ $table_prefix  = 'wp_';
  * @link https://codex.wordpress.org/Debugging_in_WordPress
  */
 define('WP_DEBUG', false);
-
+define( 'WP_HOME', 'https://www.fiberlasercuttingmachine.top' );
+define( 'WP_SITEURL', 'https://www.fiberlasercuttingmachine.top' );
 /* That's all, stop editing! Happy blogging. */
 
 //Relative URLs for swapping across app service deployment slots 
